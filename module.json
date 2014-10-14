@@ -1,0 +1,14 @@
+{
+    "enabled": false,
+    "provider": ["App\\Modules\\Gallery\\ServiceProvider"],
+    "order": 20,
+    "admin": {
+        "menuOptions": [
+            {
+                "label": "Galeria",
+                "url": "/admin/gallery",
+                "icon": "/packages/module/gallery/assets/images/icon_gallery.png"
+            }
+        ]
+    }
+}
