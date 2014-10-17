@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "provider": ["App\\Modules\\Gallery\\ServiceProvider"],
+    "provider": ["Tee\\Gallery\\ServiceProvider"],
     "order": 20,
     "admin": {
         "menuOptions": [
