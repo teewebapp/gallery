@@ -1,14 +1,5 @@
 {
     "enabled": false,
     "provider": ["Tee\\Gallery\\ServiceProvider"],
-    "order": 20,
-    "admin": {
-        "menuOptions": [
-            {
-                "label": "Galeria",
-                "url": "/admin/gallery",
-                "icon": "/packages/module/gallery/assets/images/icon_gallery.png"
-            }
-        ]
-    }
+    "order": 20
 }
