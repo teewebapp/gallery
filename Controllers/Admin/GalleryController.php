@@ -1,6 +1,6 @@
 <?php
 
-namespace Tee\Gallery\Controllers;
+namespace Tee\Gallery\Controllers\Admin;
 
 use Tee\Admin\Controllers\ResourceController;
 

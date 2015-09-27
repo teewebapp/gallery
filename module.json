@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "provider": ["Tee\\Gallery\\ServiceProvider"],
-    "order": 20
+    "order": 25
 }
